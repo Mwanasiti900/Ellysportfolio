@@ -11,6 +11,8 @@
 
 ---
 
+> **Note on data:** This repository is a portfolio demonstration. "Stride & Co." is a fictional company, and all figures, KPIs and dashboard visuals below are synthetic, constructed to illustrate the analytical approach. They are not real client results.
+
 ## 📌 Executive Summary
 
 
